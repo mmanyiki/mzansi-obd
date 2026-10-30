@@ -1,0 +1,16 @@
+{
+  "name": "Mzansi OBD Analyzer - Mazda 5 Pro",
+  "short_name": "MzansiOBD",
+  "description": "Bluetooth OBD scanner with AI analysis like your 4-log analysis - glitch detection, SA specs, Mazda 5 2011 specialist",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774083.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
